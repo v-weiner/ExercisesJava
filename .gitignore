@@ -28,3 +28,21 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Compilados
+*.class
+out/
+bin/
+target/
+
+# IDEs
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.vscode/
+
+# Sistema
+Thumbs.db
+.DS_Store
